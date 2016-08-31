@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_Liuxin_六一快乐</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="liu">六</string>
+    <string name="yi">一</string>
+    <string name="kuai">快</string>
+    <string name="le">乐</string>
+    <string name="button1">刘</string>
+    <string name="button2">欣</string>
+    <string name="button3">六一快乐</string>
+    
+</resources>
